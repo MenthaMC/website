@@ -1,0 +1,18 @@
+@font-face {
+    font-family: code;
+    src: url("@/assets/font/global_font.ttf");
+}
+
+.copy-to-clipboard-button {
+    cursor: pointer;
+    margin: 10px;
+}
+
+.toolbar-item {
+    user-select: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}

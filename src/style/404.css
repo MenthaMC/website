@@ -1,0 +1,11 @@
+* {
+    user-select: none;
+}
+
+html {
+    background: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
